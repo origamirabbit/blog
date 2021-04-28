@@ -8,7 +8,7 @@
       <link href="%E5%AD%A6%E4%B9%A0/My-Very-First-Post/"/>
       <url>%E5%AD%A6%E4%B9%A0/My-Very-First-Post/</url>
       
-        <content type="html"><![CDATA[<p>经过三天的研究与实践，总算是通过网上一些前辈们无私分享的教程，顺利的利用Hexo/Next以及GitHub仓库实现了个人博客站的建立。</p><span id="more"></span><p>目前初步打算是利用两个项目仓库(gh-pages)分别管理中，英文两版博客并进一步完善博客页面设置，例如留言板、关于页面、日程表以及地图等。希望在未来闲暇之余把个人项目留给个人主页(Portfolio)的设计。</p>]]></content>
+        <content type="html"><![CDATA[<p>经过三天的研究与实践，总算是通过网上一些前辈们无私分享的教程，顺利的利用Hexo/Next以及GitHub仓库实现了个人博客站的建立。</p><span id="more"></span><p>目前初步打算是利用两个项目仓库(gh-pages)分别管理中、英文两版博客并进一步完善博客页面设置，例如留言板、关于页面、日程表以及地图等。希望在未来闲暇之余把个人项目留给个人主页(Portfolio)的设计。</p>]]></content>
       
       
       <categories>
